@@ -1,4 +1,13 @@
-# **📊 KAIM Week 1 — News Sentiment & Stock Price Movement Prediction**
+![CI](https://github.com/hann2004/kaim-week1-news-sentiment/actions/workflows/unittests.yml/badge.svg)
+
+# 📈 KAIM Week 1 - Predicting Price Moves with News Sentiment
+
+[![Python](https://img.shields.io/badge/python-3.10-blue?logo=python)](https://www.python.org/) 
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)
+[![TA-Lib](https://img.shields.io/badge/TA--Lib-0.4.0-lightgrey)](https://mrjbq7.github.io/ta-lib/)
+[![TextBlob](https://img.shields.io/badge/TextBlob-0.17.1-yellow)](https://textblob.readthedocs.io/)
+[![VADER](https://img.shields.io/badge/VADER-1.3.2-red)](https://github.com/cjhutto/vaderSentiment)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 This project applies **news sentiment analysis**, **technical indicators**, and **data visualization** to explore how financial news may influence daily stock price movements. It is part of **10 Academy — AI Mastery Program (Week 1 Challenge)**.
 
@@ -167,4 +176,5 @@ Typical stack:
 **Hanan**
 10 Academy — Artificial Intelligence Mastery
 Week 1 Challenge Submission
+
 
