@@ -26,3 +26,6 @@ jobs:
     - name: Run tests
       run: |
         pytest -q
+    - name: Install TA-Lib
+      run: |
+       pip install TA-Lib  
